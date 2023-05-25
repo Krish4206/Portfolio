@@ -36,11 +36,11 @@ document.getElementById("deploy4Button").addEventListener("click",function(){
 })
 
 document.getElementById("instagram").addEventListener("click",function(){
-    window.open("https://www.instagram.com/vaibhav_nikrad96/")
+    window.open("https://www.instagram.com/Krish_mahajan4206/")
 })
 
 document.getElementById("linkedin").addEventListener("click",function(){
-    window.open("https://www.linkedin.com/in/vaibhav-nikrad-837493239/");
+    window.open("https://www.linkedin.com/in/krishnat-mahajan-1a18821a3/");
 })
 
 document.getElementById("github").addEventListener("click",function(){
